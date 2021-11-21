@@ -51,7 +51,7 @@ Aim: Inspire people to take on some of them
 
 # ---------------END-----------------
 
-### List of selected self-learning material
+### List of selected self-learning material (ALL can provide some material?)
 Aim: We provide a couple of links to efficient self-learning material
 - unix-shell
 - code courses (object oriented programming, functional, test oriented programming, etc.)

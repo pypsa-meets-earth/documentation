@@ -6,7 +6,7 @@ General instructor notes:
 - Make interactive. Prepare multiple choice and questions.
 - Easy to use and understand. Store mini-example datakits here.
 
-### Github [ACTION] (30-40min) -- Max/Davide
+### Github [ACTION] (30-40min) -- Max/Davide/Lukas
 Aim: Show the workflow on how to contribute
 - Issue list and discussion board
 - Github logic ![image](https://user-images.githubusercontent.com/61968949/142782206-22c7d80d-6884-4c84-91d8-93933cd9ba05.png)
@@ -23,7 +23,7 @@ Aim: Explain each component and it's function
 - .gitignore
 - most data needs to be stored outside
 
-### Installation [ACTION] (20-30min) -- Max/Davide
+### Installation [ACTION] (20-30min) -- Max/Davide/Lukas
 - Together (clone already done above, continiue with environment etc. (homework?))
 
 # ------------------15 min BREAK-------------------------
@@ -58,6 +58,7 @@ Aim: We provide a couple of links to efficient self-learning material
 - snakemake tutorial
 - pypsa examples
 - atlite
+
 Useful packages to dive deeper into:
 - pandas
 - geopandas

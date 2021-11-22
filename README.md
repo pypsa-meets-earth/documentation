@@ -6,22 +6,35 @@ General instructor notes:
 - Make interactive. Prepare multiple choice and questions.
 - Easy to use and understand. Store mini-example datakits here.
 
+### The PyPSA Earth mission: (15min) -- Max/Davide
+The mission and the features we want from the code [basically three slides from past presentations]
+PyPSA Africa
+1. mission
+2. general code principle (GIS data, into shapes, aggregated, solved with powerflow & constraints)
+
+### Architecture of PyPSA-Africa on GitHub (10-15min) -- Max/Davide
+Aim: Explain each component and it's function
+- environment.yml
+- config.yml
+- Snakefile (dag)
+- .py scripts
+- .ipynb scripts
+- .gitignore
+- most data needs to be stored outside
+
+### Requirements for hackathon (Python, "VSCode", conda, solver): -- Max/Davide
+briefly introduce them and check if all have them installed
+  - Github,git
+  - VScode
+  - conda
+  - Solver [briefly how to test i.e. gurobi.sh]
+
 ### Github [ACTION] (30-40min) -- Max/Davide/Lukas
 Aim: Show the workflow on how to contribute
 - Issue list and discussion board
 - Github logic ![image](https://user-images.githubusercontent.com/61968949/142782206-22c7d80d-6884-4c84-91d8-93933cd9ba05.png)
 - The 7 steps: Fork, load locally, branch, add changes, push upstream, PR to PyPSA-Africa https://www.tomasbeuzen.com/post/git-fork-branch-pull/
 - Everyone should contribute a <first_name>.txt. Learning by doing. (New GitHub authentification might cause problems)
-
-### Architecture of PyPSA-Africa (10-15min) -- Max/Davide
-Aim: Explain each component and it's function
-- environment.yml
-- config.yml
-- Snakefile
-- .py scripts
-- .ipynb scripts
-- .gitignore
-- most data needs to be stored outside
 
 ### Installation [ACTION] (20-30min) -- Max/Davide/Lukas
 - Together (clone already done above, continiue with environment etc. (homework?))

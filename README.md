@@ -38,6 +38,7 @@ Aim: Show the workflow on how to contribute
 
 ### Installation [ACTION] (20-30min) -- Max/Davide/Lukas
 - Together (clone already done above, continiue with environment etc. (homework?))
+- brief intro to the analyis [Jupyer script, import network -> series vs integer/float]
 
 # ------------------15 min BREAK-------------------------
 

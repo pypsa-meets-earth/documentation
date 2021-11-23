@@ -23,7 +23,9 @@ Aim: Explain each component and it's function
 - most data needs to be stored outside
 
 ### Requirements for PyPSA-Africa (Python, "VSCode", conda, solver):(15min) -- Davide
+They should install environments!
 briefly introduce them and check if all have them installed
+  - If you use windows, install WSL: https://docs.microsoft.com/en-us/windows/wsl/install
   - Github,git
   - VScode
   - conda
@@ -50,12 +52,12 @@ Aim: Explain the architecure and show execution example
 - execution of single script (one that works, one that fails)
 - how to debug? Interactive debug. Role of jupyter notebooks
 
-### Sharing real live code experience. Efficient vs poor code. (15min) -- Matin?
+### Sharing real live code experience. Efficient vs poor code. (10-15min) -- Matin?
 - different type of loops and timeit
 - create an efficient loop
 - Global variables out of function. They read in. (davide)
 
-### Forming teams & co-hacking - role of discord (15min) -- Matin?
+### Forming teams & co-hacking - role of discord (10-15min) -- Matin?
 - Co-hacking experience story
 - Using discord, voice channel etc.
 

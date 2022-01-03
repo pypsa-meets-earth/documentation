@@ -19,8 +19,8 @@ Content:
 Aim: We provide a couple of links to efficient self-learning material
 - [Fundamentals of energy economics and energy systems](https://nworbmot.org/teaching.html), great open lecture materials from Tom Brown
 - [Unix-Shell](https://swcarpentry.github.io/shell-novice/), the Unix shell is fundamental to a wide range of advanced computing tasks, including high-performance computing
-- [Python Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg), a serious of Python videos for absolute beginners
-- [PyPSA examples](https://github.com/PyPSA/PyPSA/tree/master/examples), that help understanding what PyPSA does. Requires to install PyPSA and open Jupyter notebooks
+- [Python Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg), a series of Python videos for absolute beginners
+- [PyPSA examples](https://github.com/PyPSA/PyPSA/tree/master/examples), that help understanding what PyPSA does. Click on [Binder at the PyPSA page](https://github.com/PyPSA/PyPSA) opens the examples.
 - [Atlite examples](https://github.com/PyPSA/atlite/tree/master/examples), that help understanding what Atlite does. Requires to install Atlite and open Jupyter notebooks
 - [Snakemake tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html), learn more about the powers of Snakemake
 

@@ -6,14 +6,16 @@ Duration extra DIY exercises: 5 hours
 
 Content:
 ------------
-- Vision and Mission (10min)
-- The architecture of PyPSA-Africa on GitHub (15min)
-- Development tools, requirements and installation of pypsa-africa (20min)
-- Full GitHub workflow exercise for a PyPSA-Africa contribution (30min)
-- 3 ways of Snakemake executions and introduction to debugging (40min)
-- Code-Dev story on efficient vs. poor code and the role of discord (20min)
-- Guideline on "How to add to need regions to PyPSA-Africa" (20min)
-- Wrap-up (10min)
+Slides and jupyter notebook examples are provided in this repository. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
+
+- Vision and Mission - Hackathon-slides.pdf
+- Full GitHub workflow exercise for a PyPSA-Africa contribution
+- The architecture of PyPSA-Africa on GitHub
+- Development tools, requirements and installation of pypsa-africa
+- 3 ways of Snakemake executions and introduction to debugging
+- Code-Dev story on efficient vs. poor code and the role of discord
+- Guideline on "How to add to need regions to PyPSA-Africa"
+- Wrap-up - Hackathon-slides.pdf
 
 ### List of selected self-learning material
 Aim: We provide a couple of links to efficient self-learning material

@@ -2,7 +2,7 @@
 ### - Getting ready to change the world!
 Expected experience level: Beginner  
 Duration hackathon: 3 hours  
-Duration extra DIY exercises: 3 hours
+Duration extra DIY exercises: 5 hours
 
 Content:
 ------------

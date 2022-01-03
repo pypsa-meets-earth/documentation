@@ -31,3 +31,11 @@ Useful packages to dive deeper into:
 - [numpy](https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 - [xarray](http://xarray.pydata.org/en/stable/tutorials-and-videos.html)
 - [dask](https://github.com/dask/dask-tutorial)
+
+### List of hero's with a successfull Pull Request (GitHub exercise): 
+- Lukas Franken from Germany
+- Davide Fioriti from Italy
+- Matin Mahmood from United Kingdom
+- Max Parzen from Germany
+- ...
+- YOU?

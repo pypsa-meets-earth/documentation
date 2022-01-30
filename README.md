@@ -39,5 +39,6 @@ Useful packages to dive deeper into:
 - Davide Fioriti from Italy
 - Matin Mahmood from United Kingdom
 - Max Parzen from Germany
+- Thomas Lesieur from France
 - ...
 - YOU?

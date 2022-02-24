@@ -40,5 +40,6 @@ Useful packages to dive deeper into:
 - Matin Mahmood from United Kingdom
 - Max Parzen from Germany
 - Thomas Lesieur from France
+- Jan Ohlenbusch from Germany
 - ...
 - YOU?

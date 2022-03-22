@@ -43,5 +43,5 @@ Useful packages to dive deeper into:
 - Jan Ohlenbusch from Germany
 - Taco Niet from Canada
 - Pierre McWhannel from Canada
-- ...
+- Mariana Rodríguez from Costa Rica
 - YOU?

@@ -43,4 +43,4 @@ Useful packages to dive deeper into:
 - Jan Ohlenbusch from Germany
 - Taco Niet from Canada
 - ...
-- YOU?
+- Pierre McWhannel from Canada

@@ -41,5 +41,6 @@ Useful packages to dive deeper into:
 - Max Parzen from Germany
 - Thomas Lesieur from France
 - Jan Ohlenbusch from Germany
+- Taco Niet from Canada
 - ...
 - YOU?

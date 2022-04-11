@@ -11,7 +11,6 @@ Content:
 ------------
 Slides and jupyter notebook examples are provided in this repository. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
 
-- Vision and Mission - Hackathon-slides.pdf
 - Full GitHub workflow exercise for a PyPSA-Africa contribution
 - The architecture of PyPSA-Africa on GitHub
 - Development tools, requirements and installation of pypsa-africa

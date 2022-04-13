@@ -46,4 +46,4 @@ Useful packages to dive deeper into:
 - Taco Niet from Canada
 - Pierre McWhannel from Canada
 - Mariana Rodríguez-Arce from Costa Rica
-- YOU?
+- Hana Elattar from Egypt---

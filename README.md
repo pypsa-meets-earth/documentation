@@ -1,22 +1,40 @@
-# PyPSA Africa Hackathon 
+# PyPSA Earth Documentation
 
-![Size](https://img.shields.io/github/repo-size/pypsa-meets-africa/pypsa-africa-hackathon)
+![Size](https://img.shields.io/github/repo-size/pypsa-meets-earth/documentation)
 
 ### - Getting ready to change the world!
+
+This repository contains the documentation of PyPSA-Earth including:
+- hackathon material in folder `hackathon`  (mandatory for beginners): it contains a 6-step introduction starting from the basics to learn PyPSA-Earth
+- sample notebooks to investigate the PyPSA-Earth repository in the folder `notebooks`
+- storage of documentation images in the folder `doc`
+
+## Installation
+
+1. Make sure to have installed the PyPSA-Earth package and environment available at [this link](https://github.com/pypsa-meets-earth/pypsa-earth.git)
+
+2. Open your terminal at the parent location where PyPSA-Earth has been installed. Type the following in your terminal to download the package from GitHub:
+
+   ```bash
+      .../pypsa/earth/parent/folder % git clone https://github.com/pypsa-meets-earth/documentation.git
+   ```
+
+## 1. Hackathon material
+
 Expected experience level: Beginner  
 Duration hackathon: 3 hours  
 Duration extra DIY exercises: 5 hours
 
 Content:
 ------------
-Slides and jupyter notebook examples are provided in this repository. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
+Slides and jupyter notebook examples are provided in the folder `hackathon`. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
 
-- Full GitHub workflow exercise for a PyPSA-Africa contribution
-- The architecture of PyPSA-Africa on GitHub
-- Development tools, requirements and installation of pypsa-africa
+- Full GitHub workflow exercise for a PyPSA-Earth contribution
+- The architecture of PyPSA-Earth on GitHub
+- Development tools, requirements and installation of PyPSA-Earth
 - 3 ways of Snakemake executions and introduction to debugging
 - Code-Dev story on efficient vs. poor code and the role of discord
-- Guideline on "How to add to need regions to PyPSA-Africa"
+- Guideline on "How to add to need regions to PyPSA-Earth"
 - Wrap-up - Hackathon-slides.pdf
 
 ### List of selected self-learning material
@@ -47,3 +65,9 @@ Useful packages to dive deeper into:
 - Pierre McWhannel from Canada
 - Mariana Rodríguez-Arce from Costa Rica
 - Hana Elattar from Egypt---
+
+
+## 2. Notebooks for data exploration
+
+The folder `notebooks` contains useful notebooks to explore the data of PyPSA-Earth.
+The notebooks are self-explainatory and the `pypsa-earth` environment is needed to successfully run the examples.

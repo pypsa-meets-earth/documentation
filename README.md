@@ -65,7 +65,7 @@ Useful packages to dive deeper into:
 - Pierre McWhannel from Canada
 - Mariana Rodríguez-Arce from Costa Rica
 - Hana Elattar from Egypt---
-
+- Yerbol Akhmetov from Kazakhstan
 
 ## 2. Notebooks for data exploration
 

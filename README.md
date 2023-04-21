@@ -54,7 +54,7 @@ Useful packages to dive deeper into:
 - [xarray](http://xarray.pydata.org/en/stable/tutorials-and-videos.html)
 - [dask](https://github.com/dask/dask-tutorial)
 
-### List of hero's with a successfull Pull Request (GitHub exercise): 
+### List of hero's with a successful Pull Request (GitHub exercise):  
 - Lukas Franken from Germany
 - Davide Fioriti from Italy
 - Matin Mahmood from United Kingdom
@@ -70,4 +70,4 @@ Useful packages to dive deeper into:
 ## 2. Notebooks for data exploration
 
 The folder `notebooks` contains useful notebooks to explore the data of PyPSA-Earth.
-The notebooks are self-explainatory and the `pypsa-earth` environment is needed to successfully run the examples.
+The notebooks are self-explanatory and the `pypsa-earth` environment is needed to successfully run the examples.

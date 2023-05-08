@@ -2,9 +2,10 @@
 
 ![Size](https://img.shields.io/github/repo-size/pypsa-meets-earth/documentation)
 
-### - Getting ready to change the world!
+## Getting ready to change the world!
 
 This repository contains the documentation of PyPSA-Earth including:
+
 - hackathon material in folder `hackathon`  (mandatory for beginners): it contains a 6-step introduction starting from the basics to learn PyPSA-Earth
 - sample notebooks to investigate the PyPSA-Earth repository in the folder `notebooks`
 - storage of documentation images in the folder `doc`
@@ -25,8 +26,8 @@ Expected experience level: Beginner
 Duration hackathon: 3 hours  
 Duration extra DIY exercises: 5 hours
 
-Content:
-------------
+### Content
+
 Slides and jupyter notebook examples are provided in the folder `hackathon`. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
 
 - Full GitHub workflow exercise for a PyPSA-Earth contribution
@@ -38,7 +39,9 @@ Slides and jupyter notebook examples are provided in the folder `hackathon`. Whi
 - Wrap-up - Hackathon-slides.pdf
 
 ### List of selected self-learning material
+
 Aim: We provide a couple of links to efficient self-learning material
+
 - [Fundamentals of energy economics and energy systems](https://nworbmot.org/teaching.html), great open lecture materials from Tom Brown
 - [Unix-Shell](https://swcarpentry.github.io/shell-novice/), the Unix shell is fundamental to a wide range of advanced computing tasks, including high-performance computing
 - [Python Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg), a series of Python videos for absolute beginners
@@ -47,6 +50,7 @@ Aim: We provide a couple of links to efficient self-learning material
 - [Snakemake tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html), learn more about the powers of Snakemake
 
 Useful packages to dive deeper into:
+
 - [pandas](https://pandas.pydata.org/)
 - [geopandas](https://geopandas.org/en/stable/)
 - [shapely](https://shapely.readthedocs.io/en/stable/manual.html#introduction)
@@ -54,7 +58,8 @@ Useful packages to dive deeper into:
 - [xarray](http://xarray.pydata.org/en/stable/tutorials-and-videos.html)
 - [dask](https://github.com/dask/dask-tutorial)
 
-### List of hero's with a successful Pull Request (GitHub exercise):  
+### List of hero's with a successful Pull Request (GitHub exercise)  
+
 - Lukas Franken from Germany
 - Davide Fioriti from Italy
 - Matin Mahmood from United Kingdom

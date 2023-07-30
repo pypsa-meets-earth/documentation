@@ -71,6 +71,7 @@ Useful packages to dive deeper into:
 - Mariana Rodríguez-Arce from Costa Rica
 - Hana Elattar from Egypt---
 - Yerbol Akhmetov from Kazakhstan
+- Kumbuso Joshua Nyoni
 
 ## 2. Notebooks for data exploration
 

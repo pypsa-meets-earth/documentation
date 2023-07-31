@@ -69,9 +69,10 @@ Useful packages to dive deeper into:
 - Taco Niet from Canada
 - Pierre McWhannel from Canada
 - Mariana Rodríguez-Arce from Costa Rica
-- Hana Elattar from Egypt---
+- Hana Elattar from Egypt
 - Yerbol Akhmetov from Kazakhstan
-- Kumbuso Joshua Nyoni
+- Kumbuso Joshua Nyoni from Zambia
+- Gift Sichone from Zambia
 
 ## 2. Notebooks for data exploration
 

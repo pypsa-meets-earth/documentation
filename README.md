@@ -74,6 +74,7 @@ Useful packages to dive deeper into:
 - Kumbuso Joshua Nyoni from Zambia
 - Gift Sichone from Zambia
 - Chris Mambwe from Zambia
+- Akshat Mittal from India
 
 ## 2. Notebooks for data exploration
 

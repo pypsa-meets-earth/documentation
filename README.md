@@ -76,6 +76,7 @@ Useful packages to dive deeper into:
 - Chris Mambwe from Zambia
 - Akshat Mittal from India
 - Albert Chitandula from Zambia
+- Albert Solà Vilalta from Spain
 
 ## 2. Notebooks for data exploration
 

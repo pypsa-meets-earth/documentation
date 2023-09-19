@@ -77,6 +77,7 @@ Useful packages to dive deeper into:
 - Akshat Mittal from India
 - Albert Chitandula from Zambia
 - Albert Solà Vilalta from Spain
+- Tommaso Ferrucci from Italy
 
 ## 2. Notebooks for data exploration
 

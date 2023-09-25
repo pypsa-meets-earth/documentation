@@ -78,6 +78,7 @@ Useful packages to dive deeper into:
 - Albert Chitandula from Zambia
 - Albert Solà Vilalta from Spain
 - Tommaso Ferrucci from Italy
+- Daniel Castro from Mexico
 
 ## 2. Notebooks for data exploration
 

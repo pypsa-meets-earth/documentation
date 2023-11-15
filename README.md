@@ -80,6 +80,7 @@ Useful packages to dive deeper into:
 - Tommaso Ferrucci from Italy
 - Daniel Castro from Mexico
 - Inutu Katoti from Zambia
+- Oluwafemi Abiona from Nigeria
 
 ## 2. Notebooks for data exploration
 

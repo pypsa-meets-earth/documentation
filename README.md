@@ -2,7 +2,7 @@
 
 ![Size](https://img.shields.io/github/repo-size/pypsa-meets-earth/documentation)
 
-## Getting ready to change the world!
+## Getting ready to change the world
 
 This repository contains the documentation of PyPSA-Earth including:
 

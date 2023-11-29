@@ -81,6 +81,7 @@ Useful packages to dive deeper into:
 - Daniel Castro from Mexico
 - Inutu Katoti from Zambia
 - Oluwafemi Abiona from Nigeria
+- Emmanuel Bolarinwa from Nigeria
 
 ## 2. Notebooks for data exploration
 

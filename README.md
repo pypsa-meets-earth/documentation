@@ -2,7 +2,7 @@
 
 ![Size](https://img.shields.io/github/repo-size/pypsa-meets-earth/documentation)
 
-## Getting ready to change the world!
+## Getting ready to change the world
 
 This repository contains the documentation of PyPSA-Earth including:
 
@@ -81,6 +81,8 @@ Useful packages to dive deeper into:
 - Daniel Castro from Mexico
 - Inutu Katoti from Zambia
 - Oluwafemi Abiona from Nigeria
+- Emmanuel Bolarinwa from Nigeria
+- Liza Kiwara from Kenya
 
 ## 2. Notebooks for data exploration
 

@@ -84,6 +84,7 @@ Useful packages to dive deeper into:
 - Emmanuel Bolarinwa from Nigeria
 - Liza Kiwara from Kenya
 - Mwiche Simpemba from Zambia
+- Moses Kaoma from Zambia
 
 ## 2. Notebooks for data exploration
 

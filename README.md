@@ -86,6 +86,7 @@ Useful packages to dive deeper into:
 - Mwiche Simpemba from Zambia
 - Moses Kaoma from Zambia
 - Divyansh Singhal from India
+- Anton Achhammer from Germany
 
 ## 2. Notebooks for data exploration
 

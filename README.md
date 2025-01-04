@@ -89,6 +89,7 @@ Useful packages to dive deeper into:
 - Anton Achhammer from Germany
 - Mira Theidel from Germany
 - Huy Hoang Nguyen from Vietnam
+- Derval Toukam from Germany
 
 ## 2. Notebooks for data exploration
 

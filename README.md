@@ -95,3 +95,5 @@ Useful packages to dive deeper into:
 
 The folder `notebooks` contains useful notebooks to explore the data of PyPSA-Earth.
 The notebooks are self-explanatory and the `pypsa-earth` environment is needed to successfully run the examples.
+
+***Being tested by Jihyeon Jeong!!***

@@ -92,9 +92,9 @@ Useful packages to dive deeper into:
 - Derval Toukam from Germany
 - Pierre Karamountzos from The Netherlands
 - Albert Kreutzer from Germany
+- Andrea Mastrantuono from Italy
 
 ## 2. Notebooks for data exploration
 
 The folder `notebooks` contains useful notebooks to explore the data of PyPSA-Earth.
 The notebooks are self-explanatory and the `pypsa-earth` environment is needed to successfully run the examples.
-andmastrantuono

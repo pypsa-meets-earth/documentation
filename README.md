@@ -92,6 +92,7 @@ Useful packages to dive deeper into:
 - Derval Toukam from Germany
 - Pierre Karamountzos from The Netherlands
 - Albert Kreutzer from Germany
+- Andrea Mastrantuono from Italy
 
 ## 2. Notebooks for data exploration
 

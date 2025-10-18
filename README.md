@@ -93,7 +93,7 @@ Useful packages to dive deeper into:
 - Pierre Karamountzos from The Netherlands
 - Albert Kreutzer from Germany
 - Andrea Mastrantuono from Italy
-- Khalid Abdallah form Chad
+- Khalid Jamour form Chad
 
 ## 2. Notebooks for data exploration
 

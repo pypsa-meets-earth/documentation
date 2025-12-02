@@ -12,7 +12,7 @@ This repository contains the documentation of PyPSA-Earth including:
 
 ## Installation
 
-1. Make sure to have installed the PyPSA-Earth package and environment available at [this link](https://github.com/pypsa-meets-earth/pypsa-earth.git)
+1. Ensure the [PyPSA-Earth package and environment](https://github.com/pypsa-meets-earth/pypsa-earth.git) is installed
 
 2. Open your terminal at the parent location where PyPSA-Earth has been installed. Type the following in your terminal to download the package from GitHub:
 
@@ -28,14 +28,14 @@ Duration extra DIY exercises: 5 hours
 
 ### Content
 
-Slides and jupyter notebook examples are provided in the folder `hackathon`. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
+Slides and Jupyter Notebook examples are provided in the folder `hackathon`. While there is a lot of theory and text, we always recommend to code & check out stuff where possible. Small examples also help you to "do rather than only observe".
 
 - Full GitHub workflow exercise for a PyPSA-Earth contribution
 - The architecture of PyPSA-Earth on GitHub
 - Development tools, requirements and installation of PyPSA-Earth
 - 3 ways of Snakemake executions and introduction to debugging
 - Code-Dev story on efficient vs. poor code and the role of discord
-- Guideline on "How to add to need regions to PyPSA-Earth"
+- Guideline on "How to add new regions to PyPSA-Earth"
 - Wrap-up - Hackathon-slides.pdf
 
 ### List of selected self-learning material
@@ -58,7 +58,7 @@ Useful packages to dive deeper into:
 - [xarray](http://xarray.pydata.org/en/stable/tutorials-and-videos.html)
 - [dask](https://github.com/dask/dask-tutorial)
 
-### List of hero's with a successful Pull Request (GitHub exercise)  
+### List of heroes with a successful Pull Request (GitHub exercise)  
 
 - Lukas Franken from Germany
 - Davide Fioriti from Italy
@@ -93,7 +93,8 @@ Useful packages to dive deeper into:
 - Pierre Karamountzos from The Netherlands
 - Albert Kreutzer from Germany
 - Andrea Mastrantuono from Italy
-- Khalid Jamour form Chad
+- Khalid Jamour from Chad
+- Femke Nijsse from the United Kingdom
 
 ## 2. Notebooks for data exploration
 

@@ -95,6 +95,7 @@ Useful packages to dive deeper into:
 - Andrea Mastrantuono from Italy
 - Khalid Jamour from Chad
 - Femke Nijsse from the United Kingdom
+- David Sserwanja from Uganda
 
 ## 2. Notebooks for data exploration
 
